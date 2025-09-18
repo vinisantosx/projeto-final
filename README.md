@@ -1,16 +1,14 @@
-# Manual do Usuário
+# Manual do Usuário 
 
-## Nome do Sistema
-
-**FinanCerto – Educação Financeira Gamificada**
+## EduFinance
 
 ### Autores
 
-- [Nome do Integrante 1]
-- [Nome do Integrante 2]
-- [Nome do Integrante 3]
-- [Nome do Integrante 4]
-- [Outros, se houver]
+- [Mateus Correia]
+- [Matheus Alcantara]
+- [Tiago Carneiro]
+- [Gabriel]
+- [Vinicius Santos]
 
 **Ano:** 2025
 
@@ -20,7 +18,7 @@
 
 ### Apresentação do Sistema
 
-O **FinanCerto** é um aplicativo mobile de educação financeira gamificada que tem como principal objetivo ensinar conceitos de finanças pessoais e investimentos de forma leve, divertida e progressiva, utilizando elementos de jogos como pontuação, níveis, recompensas e desafios diários.  
+A **EduFinance** é um aplicativo mobile de educação financeira gamificada que tem como principal objetivo ensinar conceitos de finanças pessoais e investimentos de forma leve, divertida e progressiva, utilizando elementos de jogos como pontuação, níveis, recompensas e desafios diários.  
 Inspirado no modelo de aprendizagem do Duolingo, o app oferece lições curtas e interativas que ajudam o usuário a desenvolver sua saúde financeira de maneira contínua e eficiente.
 
 ### Público-alvo do Manual
@@ -145,3 +143,4 @@ Este manual é destinado a usuários finais, especialmente aqueles com pouco ou 
 - **FAQ (Perguntas Frequentes):** dentro do app, seção "Ajuda"
 
 ---
+
